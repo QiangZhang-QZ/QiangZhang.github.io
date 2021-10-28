@@ -17,8 +17,8 @@ title: "Journal publications"
 12.	Y. Wang, Q. Zhang, and X. H. Xiao*, “Trajectory Tracking Control of the Bionic Joint Actuated by Pneumatic Artificial Muscle Based on Robust Modeling,” ROBOT, 2016, 38(2): 248-256. (In Chinese)
 13.	Q. Zhang, X. H. Xiao*, Y. Wang, et al, “Compliant joint for biped robot considering energy consumption optimization”, Journal of Central South University, 2015, 46(11): 4070-4076. (In Chinese)
 
----
-layout: page
+
+
 title: "Conference publications and presentations"
 ---
 
