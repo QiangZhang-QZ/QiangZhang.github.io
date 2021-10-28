@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Journal publications"
+title: "Journal and conference publications"
 ---
-
+## Journals
 1.	Q. Zhang, A. Myers, N. Fragnito, J. R. Franz, and N. Sharma, “Plantarflexion Moment Prediction during Walking using an sEMG-Ultrasound Imaging-Driven Neuromuscular Model”, J. Neuroeng. Rehabil., 2021, (Under Review).
 2.	Q. Zhang, A. Iyer, K. Lambeth, K. Kim, and N. Sharma*, “Ultrasound Echogenicity as an Indicator of Muscle Fatigue During Functional Electrical Stimulation”, Sensors, 2021, (Under review).
 3.	Q. Zhang, K. Lambeth, A. Iyer, Z. Sun, and N. Sharma*, “Ultrasound Imaging-based Closed-loop Control of Ankle Dorsiflexion by Using Functional Electrical Stimulation”, IEEE Trans. Control Syst. Technol., 2021 (Under review).
@@ -19,8 +19,7 @@ title: "Journal publications"
 
 
 
-title: "Conference publications and presentations"
----
+## Conferences and presentations
 
 1.	Q. Zhang, X. Bao, N. Fragnito, M. Singh, A. Dodson, and N. Sharma*, “Ultrasound Imaging-sEMG Based Plantarflexion Assistance Control of a Cable-Driven Ankle Exoskeleton”, in 2022 39th IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2022 (Under Review)
 2.	A. Iyer, M. Singh, Q. Zhang, Z. Sun, and N. Sharma*, “A Reinforcement Learning Approach to Approximate Optimal Control Inputs for a Hybrid Exoskeleton with Sampled Measurements”, in Proc. Amer. Control Conf., 2022 (Under Review).
