@@ -18,6 +18,7 @@ title: "Journal publications"
 13.	Q. Zhang, X. H. Xiao*, Y. Wang, et al, “Compliant joint for biped robot considering energy consumption optimization”, Journal of Central South University, 2015, 46(11): 4070-4076. (In Chinese)
 
 ---
+layout: page
 title: "Conference publications and presentations"
 ---
 
