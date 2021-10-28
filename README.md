@@ -6,42 +6,31 @@ layout: page
 
 ## Installation
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I am a Ph.D. candidate at Neuromuscular Control and Robotics Lab at UNC/NCSU Joint Department of Biomedical Engineering, North Carolina State University, working under the supervision of Dr. Nitin Sharma. My research interests are in the areas of human motion intention detection, neuromuscular electrical stimulation (NMES) control, exoskeleton adaptive control, Lyapunov-based nonlinear control, nonlinear observer design, and sensor fusion with multi-rate.
+
+My current research efforts are on human ankle joint effort prediction by using ultrasound imaging and surface electromyography fusion, assist-as-needed control of ankle exoskeleton during walking, and NMES-elicited ankle joint trajectory tracking control with ultrasound imaging-based muscle state feedback. I have collaborated on iterative learning control of a lower limb hybrid neuroprosthesis for sit-to-stand task, as well as model predictive control of elbow joint by stimulating antagonistic muscles.
+
+Prior to my Ph.D. program, I got my becholar and master degrees in Mechanical Engineering both from Wuhan University, China. My research work during master study focused on the development of an upper limb exoskeleton robot with four active degrees of freedom and two passive degrees of freedom. Each active DOF is actuated by a customized serial elastic actuator plus Bowden cable.
+
+I have published my research work in various scientific peer-reviewed journals and conferences of IEEE, EMBS, IFAC, and ASME societies (17 published in total and 5 under review). I have been nominated as one finalist for the Best Student Paper Award at the 16th IEEE/RAS-EMBS International Conference on Rehabilitation Robotics (ICORR 2019).
+
+My academic training and more than seven years of experience working as a research assistant in two labs prepare me to be an effective researcher in the areas of human-in-loop robotics, biomechanics analysis, control of biomechatronic devices, and so on. I am always looking for opportunities where I can combine my research acumen with my research experience to help real-world medical needs.
+
 
 ## Features
 
  - supports dark mode on macOS Mojave
  - optional sidebar
  - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+
 
 ## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+
 
 ## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
 
 ## Config
 
@@ -74,26 +63,15 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
 
 ```
 
 ## MathJax
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter1.
 
 ## License
 
-[public domain](http://unlicense.org/)
+
 
 ## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
