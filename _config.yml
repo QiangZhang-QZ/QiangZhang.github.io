@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_Qiang Zhang_full.pdf", title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "qzhang25@ncsu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:qzhang25@ncsu.edu"}
   - {title: Github, icon: github, url: "https://github.com/QiangZhang-QZ"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
