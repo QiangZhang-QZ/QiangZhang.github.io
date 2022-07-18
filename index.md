@@ -2,9 +2,9 @@
 layout: page
 title: "Hi, I am Qiang Zhang"
 ---
-<img align="left" width="400" height="530" src="https://user-images.githubusercontent.com/75514501/179544133-a9956682-4b3d-4243-a920-c7d66d128b3a.jpg">
-
-<br clear="right"/>
+<img align="right" width="400" height="530" src="https://user-images.githubusercontent.com/75514501/179544133-a9956682-4b3d-4243-a920-c7d66d128b3a.jpg">
+<br/>
+<br clear="left"/>
 
 As a post-doc research fellow in the [Closed-Loop Engineering for Advanced Rehabilitation (CLEAR)](https://www.clear-ncsu-unc.com/) at the University of North Carolina at Chapel Hill and North Carolina State University, my goal is to improve human mobility and health by developing human-centered control approaches for advanced wearable robotic devices. For doing so, I incoporate modern sensing techbologies and machine learning-based control algorithms to customized the assistance from wearable robotic devices for individual users, including healthy people and patients with neurological disorders.
 <br/>
