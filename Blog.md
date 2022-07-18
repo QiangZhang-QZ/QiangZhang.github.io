@@ -13,10 +13,10 @@ title: "Blog"
 - 08/17/2021 - Our journal paper titled "A Dual-modal Approach Using Electromyography and Sonomyography Improves Prediction of Dynamic Ankle Movement: A Case Study" has been accepted by IEEE TNSRE.
 
 ## 2020
--07/27/2020 - Our journal paper titled "Evaluation of Non-invasive Neuromuscular Measurements and Ankle Joint Effort Prediction Methods for Use in Neurorehabilitation" has been accepted by IEEE TBME.
+- 07/27/2020 - Our journal paper titled "Evaluation of Non-invasive Neuromuscular Measurements and Ankle Joint Effort Prediction Methods for Use in Neurorehabilitation" has been accepted by IEEE TBME.
 
 ## 2019
--11/07/2019 - Our journal paper titled "Prediction of Ankle Dorsiflexion Moment by Combined Ultrasound Sonography and Electromyography" has been accepted by IEEE TNSRE.
+- 11/07/2019 - Our journal paper titled "Prediction of Ankle Dorsiflexion Moment by Combined Ultrasound Sonography and Electromyography" has been accepted by IEEE TNSRE.
 
 
 ## 2018
