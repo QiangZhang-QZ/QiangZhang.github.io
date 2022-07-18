@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Journal and conference publications](https://scholar.google.com/citations?user=FczBCGAAAAAJ&hl=en)"
+title: "Journal and conference publications"
 ---
 ## Journals
 ### 2022
