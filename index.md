@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Hi, I am Qiang Zhang"
 ---
 
 I am a post-doc research fellow in the Closed-Loop Engineering for Advanced Rehabilitation (CLEAR) at the University of North Carolina at Chapel Hill and North Carolina State University. 
