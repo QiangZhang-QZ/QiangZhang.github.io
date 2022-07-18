@@ -4,21 +4,23 @@ title: "Journal and conference publications"
 ---
 ## Journals
 
-- **Q. Zhang**, K. Lembrth, Z. Sun, A. Dodson, X. Bao, and N. Sharma*, "On the Fusion of Sonomyography and Electromyography for Assist-as-needed Control of a Cable-Driven Ankle Exoskeleton", IEEE Trans. Robot., 2022, Under Review.
-- **Q. Zhang**, N. Fragnito, J. R. Franz, and N. Sharma*, “ Fused Ultrasound and Electromyography-driven Neuromuscular Model to Improve Plantarflexion Moment Prediction across Walking Speeds”, J. Neuroeng. Rehabil., 2022, Under Review.
-- **Q. Zhang**, K. Lambeth, A. Iyer, Z. Sun, and N. Sharma*, “Ultrasound Imaging-based Closed-loop Control of Ankle Dorsiflexion by Using Functional Electrical Stimulation”, IEEE Trans. Control Syst. Technol., 2021, Under Review.
+- **Q. Zhang**, N. Fragnito, X. Bao, and N. Sharma*, “A Deep Learning Method to Predict Ankle Joint Moment during Versatile Walking Tasks with Ultrasound Imaging: A Framework for Assistive Devices Control”, Wearable Technologies, 2022, Under review, second round.  
+- X. Bao, **Q. Zhang**, N. Fragnito, J. Wang, and N. Sharma*, “Clustering-based Unsupervised Learning Method for Pennation Angle Detection from Ultrasound Imaging”, Wearable Technologies, 2022, Under Review, second round. 
+- **Q. Zhang**, V. Nalam, X. Tu, M. Li, J. Si, M. Lewek, and H. Huang*, “Imposing Healthy Hip Movement Pattern and Range by Exoskeleton Control for Individualized Assistance”, IEEE Robot. Autom. Lett., 2022, Accepted.
+- **Q. Zhang**, K. Lembrth, Z. Sun, A. Dodson, X. Bao, and N. Sharma*, "On the Fusion of Sonomyography and Electromyography for Assist-as-needed Control of a Cable-Driven Ankle Exoskeleton", IEEE Trans. Robot., 2022, Under Review, second round.
+- **Q. Zhang**, N. Fragnito, J. R. Franz, and N. Sharma*, “ Fused Ultrasound and Electromyography-driven Neuromuscular Model to Improve Plantarflexion Moment Prediction across Walking Speeds”, J. Neuroeng. Rehabil., 2022, Under Review, second round.
+- **Q. Zhang**, K. Lambeth, A. Iyer, Z. Sun, and N. Sharma*, “Ultrasound Imaging-based Closed-loop Control of Ankle Dorsiflexion by Using Functional Electrical Stimulation”, IEEE Trans. Control Syst. Technol., 2022, Under Review, second round.
+- M. Vahidreza, **Q. Zhang**, X. Bao, and N. Sharma*, “An Iterative Learning Controller for a Switched Cooperative Allocation Strategy During Sit-to-Stand Tasks with a Hybrid Exoskeleton”, IEEE Trans. Control Syst. Technol., vol. 30, no. 3, pp. 1021-1036, 2022.
 - **Q. Zhang**, A. Iyer, K. Lambeth, K. Kim, and N. Sharma*, “Ultrasound Echogenicity as an Indicator of Muscle Fatigue During Functional Electrical Stimulation”, Sensors, vol. 22, no. 1, pp. 335, 2022.
+- M. Vahidreza, **Q. Zhang**, X. Bao, B. Dicianno, and N. Sharma*, “Shared Control of a Powered Exoskeleton and Functional Electrical Stimulation using Iterative Learning and Fatigue Optimization”, Front. Robot. AI, 8: 711388, 2021.
 - **Q. Zhang**, A. Iyer, Z. Sun, K. Kim, and N. Sharma*, “A Dual-Modal Approach Using Electromyography and Sonomyography Improves Prediction of Dynamic Ankle Movement: A Case Study”, IEEE Trans. Neural Syst. Rehabil. Eng., vol. 29, pp. 1944-1954, 2021.
 - **Q. Zhang**, W. H. Clark, J. R. Franz, and N. Sharma*, “Personalized Fusion of Ultrasound and Electromyography-Derived Neuromuscular Features Increases Prediction Accuracy of Ankle Moment during Plantarflexion,” Biomed. Signal Process Control, vol. 71, pp. 103100, 2022.
 - **Q. Zhang**, A. Iyer, K. Kim*, and N. Sharma*, “Evaluation of Noninvasive Ankle Joint Effort Prediction Methods for Use in Neurorehabilitation Using Electromyography and Ultrasound Imaging,” IEEE Trans. Biomed. Eng., vol. 68, no. 3, pp. 1044–1055, 2021.
 - **Q. Zhang**, K. Kim*, and N. Sharma*, “Prediction of Ankle Dorsiflexion Moment by Combined Ultrasound Sonography and Electromyography,” IEEE Trans. Neural Syst. Rehabil. Eng., vol. 28, no. 1, pp. 318–327, 2020.
 - **Q. Zhang**, D. Sun, W. Qian, X. Xiao, and Z. Guo*, “Modeling and control of a cable-driven rotary series elastic actuator for an upper limb rehabilitation robot,” Front. Neurorobot., vol. 14, pp. 13, 2020.
-- M. Vahidreza, **Q. Zhang**, X. Bao, and N. Sharma*, “An Iterative Learning Controller for a Switched Cooperative Allocation Strategy During Sit-to-Stand Tasks with a Hybrid Exoskeleton”, IEEE Trans. Control Syst. Technol., 2021, DOI: 10.1109/TCST.2021.3089885.
-- M. Vahidreza, **Q. Zhang**, X. Bao, B. Dicianno, and N. Sharma*, “Shared Control of a Powered Exoskeleton and Functional Electrical Stimulation using Iterative Learning and Fatigue Optimization”, Front. Robot. AI, 329, 2021.
 - **Q. Zhang**, Y. Wang, and X. H. Xiao*, “Effects of Ground Compliance on Bipedal Robot Walking Dynamic Property”, Journal of the Chinese Society of Mechanical Engineers, 2016, 37(4): 335-342.
 -	Y. Wang, **Q. Zhang**, and X. H. Xiao*, “Trajectory Tracking Control of the Bionic Joint Actuated by Pneumatic Artificial Muscle Based on Robust Modeling,” ROBOT, 2016, 38(2): 248-256. (In Chinese)
 -	**Q. Zhang**, X. H. Xiao*, Y. Wang, et al, “Compliant joint for biped robot considering energy consumption optimization”, Journal of Central South University, 2015, 46(11): 4070-4076. (In Chinese)
-
 
 
 ## Conferences and presentations
