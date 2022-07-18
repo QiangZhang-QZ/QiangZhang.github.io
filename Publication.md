@@ -2,6 +2,7 @@
 layout: page
 title: "Journal and conference publications"
 ---
+More details can be found on the [Google Scholar Webpage](https://scholar.google.com/citations?user=FczBCGAAAAAJ&hl=en).
 ## Journals
 ### 2022
 - **Q. Zhang**, N. Fragnito, X. Bao, and N. Sharma*, “A Deep Learning Method to Predict Ankle Joint Moment during Versatile Walking Tasks with Ultrasound Imaging: A Framework for Assistive Devices Control”, Wearable Technologies, 2022, Under review, second round.  
