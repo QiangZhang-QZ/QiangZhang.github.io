@@ -9,8 +9,10 @@ title: "Blog"
 - 05/07/2022 - Our conference paper titled "An Online Actor-Critic Identifier with Sampled Fatigue Measurements for Optimal Adaptive Control of FES and an Electric motor" has been accepted by CCTA 2022. 
 
 ## 2021
+- 12/30/2021 - Our journal paper titled "Ultrasound Echogenicity as an Indicator of Muscle Fatigue During Functional Electrical Stimulation" has been accepted by MDPI Sensors.
 - 11/02/2021 - Qiang Zhang successfully defended his dissertation and unconditionally passed his defense. Now he has a new title as "Dr. Qiang Zhang".
 - 10/28/2021 - Our abstract titled "Towards Surface Electromyography-Ultrasound Imaging-based Human Volitional Effort Prediction for the Assist-as-needed Control of a Cable-Driven Ankle Exoskeleton" has been accepted by SECC 2021. 
+- 08/23/2021 - Our journal paper titled "Personalized Fusion of Ultrasound and Electromyography-derived Neuromuscular Features Increases Prediction Accuracy of Ankle Moment during Plantarflexion" has been accepted by Biomedical Signal Processing & Control as a VSI: Biomed Signals as Images.
 - 08/17/2021 - Our journal paper titled "A Dual-modal Approach Using Electromyography and Sonomyography Improves Prediction of Dynamic Ankle Movement: A Case Study" has been accepted by IEEE TNSRE.
 - 06/04/2021 - Our journal paper titled "An Iterative Learning Controller for a Switched Cooperative Allocation Strategy during Sit-to-Stand Tasks with a Hybrid Exoskeleton" has been accepted by IEEE TCST.
 
