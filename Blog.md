@@ -12,6 +12,7 @@ title: "Blog"
 - 12/30/2021 - Our journal paper titled "Ultrasound Echogenicity as an Indicator of Muscle Fatigue During Functional Electrical Stimulation" has been accepted by MDPI Sensors.
 - 11/02/2021 - Qiang Zhang successfully defended his dissertation and unconditionally passed his defense. Now he has a new title as "Dr. Qiang Zhang".
 - 10/28/2021 - Our abstract titled "Towards Surface Electromyography-Ultrasound Imaging-based Human Volitional Effort Prediction for the Assist-as-needed Control of a Cable-Driven Ankle Exoskeleton" has been accepted by SECC 2021. 
+- 09/27/2021 - Our journal paper titled "Shared Control of a Powered Exoskeleton and Functional Electrical Stimulation using Iterative Learning and Fatigue Optimization" has been accepted by Frontiers in Robotics and AI, section Biomedical Robotics.
 - 08/23/2021 - Our journal paper titled "Personalized Fusion of Ultrasound and Electromyography-derived Neuromuscular Features Increases Prediction Accuracy of Ankle Moment during Plantarflexion" has been accepted by Biomedical Signal Processing & Control as a VSI: Biomed Signals as Images.
 - 08/17/2021 - Our journal paper titled "A Dual-modal Approach Using Electromyography and Sonomyography Improves Prediction of Dynamic Ankle Movement: A Case Study" has been accepted by IEEE TNSRE.
 - 07/15/2021 - Our conference paper titled "Ultrasound Echogenicity-based Assessment of Muscle Fatigue During Functional Electrical Stimulation" has been accepted by EMBC 2021.
@@ -23,12 +24,14 @@ title: "Blog"
 - 09/16/2020 - Our conference paper titled "Ultrasound-based Sensing and Control of Functional Electrical Stimulation for Ankle Rehabilitation" has been accepted for Oral Presentation in "WeR8. Toward Efficient Human-Exoskeleton Symbiosis" of WeRob2020.
 - 07/27/2020 - Our journal paper titled "Evaluation of Non-invasive Neuromuscular Measurements and Ankle Joint Effort Prediction Methods for Use in Neurorehabilitation" has been accepted by IEEE TBME.
 - 06/09/2020 - Our conference paper titled "Sampled-Data Observer Based Dynamic Surface Control of Delayed Neuromuscular Functional Electrical Stimulation" has been accepted by DSCC 2020.
+- 05/08/2020 - Our conference paper titled "Analysis of Tremor During Grasp Using Ultrasound Imaging" has been accepted by BioRob 2020.
+- 05/08/2020 - Our conference paper titled "Volitional Contractility Assessment of Plantar Flexors by Using Non-invasive Neuromuscular Measurements" has been accepted by BioRob 2020.
 
 ## 2019
 - 11/07/2019 - Our journal paper titled "Prediction of Ankle Dorsiflexion Moment by Combined Ultrasound Sonography and Electromyography" has been accepted by IEEE TNSRE.
+- 06/10/2019 - Our conference paper titled "Neural-Network Based Iterative Learning Control of a Hybrid Exoskeleton with an MPC Allocation Strategy" has been accepted by DSCC 2019.
 - 04/01/2019 - Our conference paper titled "Ankle Dorsiflexion Strength Monitoring by Combining Sonomyography and Electromyography" has been accepted by ICORR 2019.
 - 01/27/2019 - Our conference paper titled "Observer Design for a Nonlinear Neuromuscular System with Multi-rate Sampled and Delayed Output Measurements" has been accepted by ACC 2019.
-
 
 ## 2018
 - 09/12/2018 - Our abstract titled "Continuous muscle strength monitor for ankle dorsiflexion using combined ultrasound imaging and electromyography" has been accepted by CMU BME Forum 2018. 
