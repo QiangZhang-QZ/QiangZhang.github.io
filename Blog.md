@@ -3,6 +3,7 @@ layout: page
 title: "Blog"
 ---
 ## 2022
+- 07/21/2022 - Our journal paper titled "Fused Ultrasound and Electromyography-driven Neuromuscular Model to Improve Plantarflexion Moment Prediction across Walking Speeds" has been accepted by JNER. 
 - 07/18/2022 - Our journal paper titled "Imposing Healthy Hip Movement Pattern and Range by Exoskeleton Control for Individualized Assistance" has been accepted by IEEE RA-L.
 - 06/30/2022 - Our conference paper titled "Normalizing Hip Movement Pattern and Range by Exoskeleton Control for Individualized Assistance" has been accepted by IROS 2022. 
 - 06/30/2022 - Our special session titled "Evaluation of a Fused Sonomyography and Electromyography-based Control on a Cable-Driven Ankle Exoskeleton" has been accepted by the MECC 2022. 
