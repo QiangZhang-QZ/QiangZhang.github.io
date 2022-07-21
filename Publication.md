@@ -4,12 +4,13 @@ title: "Journal and conference publications"
 ---
 More details can be found on the [Google Scholar Webpage](https://scholar.google.com/citations?user=FczBCGAAAAAJ&hl=en).
 ## Journals
+
 ### 2022
 - **Q. Zhang**, N. Fragnito, X. Bao, and N. Sharma*, “A Deep Learning Method to Predict Ankle Joint Moment during Versatile Walking Tasks with Ultrasound Imaging: A Framework for Assistive Devices Control”, Wearable Technologies, 2022, Under review, second round.  
 - X. Bao, **Q. Zhang**, N. Fragnito, J. Wang, and N. Sharma*, “Clustering-based Unsupervised Learning Method for Pennation Angle Detection from Ultrasound Imaging”, Wearable Technologies, 2022, Under Review, second round. 
 - **Q. Zhang**, V. Nalam, X. Tu, M. Li, J. Si, M. Lewek, and H. Huang*, “Imposing Healthy Hip Movement Pattern and Range by Exoskeleton Control for Individualized Assistance”, IEEE Robot. Autom. Lett., 2022, Accepted.
 - **Q. Zhang**, K. Lembrth, Z. Sun, A. Dodson, X. Bao, and N. Sharma*, "On the Fusion of Sonomyography and Electromyography for Assist-as-needed Control of a Cable-Driven Ankle Exoskeleton", IEEE Trans. Robot., 2022, Under Review, second round.
-- **Q. Zhang**, N. Fragnito, J. R. Franz, and N. Sharma*, “ Fused Ultrasound and Electromyography-driven Neuromuscular Model to Improve Plantarflexion Moment Prediction across Walking Speeds”, J. Neuroeng. Rehabil., 2022, Under Review, second round.
+- **Q. Zhang**, N. Fragnito, J. R. Franz, and N. Sharma*, “ Fused Ultrasound and Electromyography-driven Neuromuscular Model to Improve Plantarflexion Moment Prediction across Walking Speeds”, J. Neuroeng. Rehabil., 2022, Accepted.
 - **Q. Zhang**, K. Lambeth, A. Iyer, Z. Sun, and N. Sharma*, “Ultrasound Imaging-based Closed-loop Control of Ankle Dorsiflexion by Using Functional Electrical Stimulation”, IEEE Trans. Control Syst. Technol., 2022, Under Review, second round.
 - M. Vahidreza, **Q. Zhang**, X. Bao, and N. Sharma*, “An Iterative Learning Controller for a Switched Cooperative Allocation Strategy During Sit-to-Stand Tasks with a Hybrid Exoskeleton”, IEEE Trans. Control Syst. Technol., vol. 30, no. 3, pp. 1021-1036, 2022.
 - **Q. Zhang**, A. Iyer, K. Lambeth, K. Kim, and N. Sharma*, “Ultrasound Echogenicity as an Indicator of Muscle Fatigue During Functional Electrical Stimulation”, Sensors, vol. 22, no. 1, pp. 335, 2022.
@@ -27,6 +28,7 @@ More details can be found on the [Google Scholar Webpage](https://scholar.google
 -	**Q. Zhang**, X. H. Xiao*, Y. Wang, et al, “Compliant joint for biped robot considering energy consumption optimization”, Journal of Central South University, 2015, 46(11): 4070-4076. (In Chinese)
 
 ## Conferences and presentations
+
 ### 2022
 - **Q. Zhang**, V. Nalam, X. Tu, M. Li, J. Si, M. Lewek, H. Huang*, "Normalizing Hip Movement Pattern and Range by Exoskeleton Control for Individualized Assistance", in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, Accepted.
 - A. Iyer, M. Singh, **Q. Zhang**, Z. Sun, and N. Sharma*, “An Online Actor-Critic Identifier with Sampled Fatigue Measurements for Optimal Adaptive Control of FES and an Electric motor”, in IEEE Conference on Control Technology and Applications, 2022, Accepted.
