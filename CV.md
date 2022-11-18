@@ -1,1 +1,1 @@
-<a href="[qiangzhang.github.io/blob/master/CV_Qiang Zhang.pdf](https://github.com/QiangZhang-QZ/qiangzhang.github.io/blob/master/CV_Qiang Zhang.pdf)" target="_blank">PDF.</a>
+<object data="qiangzhang.github.io/blob/master/CV_Qiang Zhang.pdf" width="1000" height="1000" type='application/pdf'></object>
