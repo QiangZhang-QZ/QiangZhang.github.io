@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "News"
 ---
 ## 2022
 - 07/21/2022 - Our journal paper titled "Fused Ultrasound and Electromyography-driven Neuromuscular Model to Improve Plantarflexion Moment Prediction across Walking Speeds" has been accepted by JNER. 
