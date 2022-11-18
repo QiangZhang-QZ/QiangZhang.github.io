@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Education experience"
+---
 ### Doctoral Degree (Ph.D.) in Biomedical Engineering (08/2019 - 11/2021)
 
 Institute: UNC/NCSU Joint Department of Biomedical Engineering at the University of North Carolina at Chapel Hill and North Carolina State University, Raleigh, NC, USA
